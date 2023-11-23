@@ -11,7 +11,7 @@
     <div class="landing-section__description">
       Kami mengajarkan anak Anda bagaimana memikat audience dengan teknik yang ga diajarkan di tempat lain
     </div>
-    <a href="https://aktlivingacademy.com">
+    <a href="https://aktlivingacademy.com" target="_blank">
       <button class="landing-section__button">
         Daftar Sekarang
       </button>
