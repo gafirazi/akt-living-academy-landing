@@ -16,8 +16,8 @@
           <!-- <b-nav-item href="#" class="navbar-item-link">Program</b-nav-item>
           <b-nav-item href="#" class="navbar-item-link">Kegiatan</b-nav-item> -->
           <!-- <b-nav-item href="#" class="navbar-item-link">Pengajar</b-nav-item> -->
-          <b-nav-item href="https://aktlivingacademy.com" class="navbar-item-link-yellow">Pendaftaran Online</b-nav-item>
-          <b-nav-item href="#" class="navbar-item-link">
+          <b-nav-item href="https://aktlivingacademy.com" class="navbar-item-link-yellow" target="_blank">Pendaftaran Online</b-nav-item>
+          <b-nav-item href="https://wa.me/081927088036" class="navbar-item-link" target="_blank">
             <img
               :src="whatsapp"
               alt=""

@@ -10,9 +10,14 @@
           alt=""
           class="contact-us-section__whatsapp-logo"
         >
-        <div class="contact-us-section__whatsapp-text">
-          WHATSAPP US
-        </div>
+        <a
+          href="https://wa.me/081927088036"
+          target="_blank"
+        >
+          <div class="contact-us-section__whatsapp-text">
+            WHATSAPP US
+          </div>
+        </a>
       </div>
     </div>
   </div>
