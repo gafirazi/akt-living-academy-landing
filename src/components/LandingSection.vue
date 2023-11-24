@@ -37,6 +37,7 @@ export default {
   background-image: linear-gradient(#614d1c, #614d1c), url('../assets/landing-img.png');
   min-height: calc(100vh - 76px);
   background-size: cover;
+  background-position: 30% 50%;
   background-blend-mode: soft-light;
   display: flex;
   flex-direction: column;
