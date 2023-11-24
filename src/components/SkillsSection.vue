@@ -160,5 +160,9 @@ export default {
   .skills-section {
     padding: 40px;
   }
+
+  .skill__title {
+    font-size: 14px;
+  }
 }
 </style>
